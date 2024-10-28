@@ -1,26 +1,18 @@
 [
     {
-      "title": "Projeto A",
-      "imageSrc": "projects/project.png",
-      "description": "Projeto de exemplo 1. A ser implementado.",
-      "skills": ["React", "Express", "Node"],
+      "title": "BlogsAPI Backend",
+      "imageSrc": "projects/backend.png",
+      "description": "Um Backend de uma API de Blogs, com um CRUD e sistema de autenticação.",
+      "skills": ["NodeJS", "Express", "JWT", "MySQL", "Docker"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/pedro-vieiraf/blogs-api"
     },
     {
-      "title": "Projeto B",
-      "imageSrc": "projects/project.png",
-      "description": "Projeto de exemplo 1. A ser implementado.",
-      "skills": ["React", "Express", "Node", "Sass"],
+      "title": "Online Store Backend",
+      "imageSrc": "projects/backend.png",
+      "description": "Um projeto utilizando o framework AdonisJS com sistema de autenticação.",
+      "skills": ["NodeJS", "AdonisJS", "LucidORM", "MySQL", "Docker"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
-    },
-    {
-      "title": "Projeto C",
-      "imageSrc": "projects/project.png",
-      "description": "Projeto de exemplo 1. A ser implementado.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/pedro-vieiraf/store-backend"
     }
   ]
